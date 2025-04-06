@@ -37,7 +37,11 @@ All built using vanilla web technologies — no frameworks or libraries.
 3. Play instantly — no setup or installation needed.
 
 ---
+## 🎮 Play the Game
 
+[Click here to play Dragon Repeller!](https://mhmdjb.github.io/Dragon-Repeller/)
+
+---
 ## 👤 Author
 
 Created by **Mhmd**
